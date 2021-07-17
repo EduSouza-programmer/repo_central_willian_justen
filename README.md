@@ -55,12 +55,12 @@ _ps: aqui constam todos os projetos que foram realizados com Willian Justen._ :r
 
 #### Tabela dos cursos :clipboard:
 
-|                                                                                                                                  |           curso           | descrição                                                                               | repositório | deploy |
-| :------------------------------------------------------------------------------------------------------------------------------: | :-----------------------: | :-------------------------------------------------------------------------------------- | :---------: | :----: |
-| <img height="70px"  src="https://willianjusten.com.br/_next/image?url=%2Fassets%2Fimg%2Fcursos%2Freact-avancado.png&w=256&q=75"> |   Construa uma LandPage   | Mini projeto dentro do curso react avançado                                             |      -      |   -    |
-|   <img height="70px"  src="https://willianjusten.com.br/_next/image?url=%2Fassets%2Fimg%2Fcursos%2Fts-course.png&w=256&q=75">    |         Typscript         | Aprenda o que é TypeScript, como funciona, por que usar e muito mais!                   |      -      |   -    |
-|           <img  src="https://willianjusten.com.br/_next/image?url=%2Fassets%2Fimg%2Fcursos%2Fnetlify.png&w=256&q=75">            |          Netlify          | Aprenda a botar seus projetos no ar de forma fácil e gratuita!                          |      -      |   -    |
-|        <img  src="https://willianjusten.com.br/_next/image?url=%2Fassets%2Fimg%2Fcursos%2Fgit-real-life.png&w=256&q=75">         | Git e Github na Vida Real | Aprenda Workflows usados em empresa e domine o git para nunca mais ter problema nenhum! |      -      |   -    |
+|                                                                                                                                  |           curso           | descrição                                                                               |                             repositório                             |                       deploy                        |
+| :------------------------------------------------------------------------------------------------------------------------------: | :-----------------------: | :-------------------------------------------------------------------------------------- | :-----------------------------------------------------------------: | :-------------------------------------------------: |
+| <img height="70px"  src="https://willianjusten.com.br/_next/image?url=%2Fassets%2Fimg%2Fcursos%2Freact-avancado.png&w=256&q=75"> | Construa uma Landing Page | Mini projeto dentro do curso react avançado                                             | [Link](https://github.com/EduSouza-programmer/landing_page-RA_will) | [page](https://edu-souza-landing-page.netlify.app/) |
+|   <img height="70px"  src="https://willianjusten.com.br/_next/image?url=%2Fassets%2Fimg%2Fcursos%2Fts-course.png&w=256&q=75">    |         Typscript         | Aprenda o que é TypeScript, como funciona, por que usar e muito mais!                   |                                  -                                  |                          -                          |
+|           <img  src="https://willianjusten.com.br/_next/image?url=%2Fassets%2Fimg%2Fcursos%2Fnetlify.png&w=256&q=75">            |          Netlify          | Aprenda a botar seus projetos no ar de forma fácil e gratuita!                          |                                  -                                  |                          -                          |
+|        <img  src="https://willianjusten.com.br/_next/image?url=%2Fassets%2Fimg%2Fcursos%2Fgit-real-life.png&w=256&q=75">         | Git e Github na Vida Real | Aprenda Workflows usados em empresa e domine o git para nunca mais ter problema nenhum! |                                  -                                  |                          -                          |
 
 _ps: A tabela acima será sempre atualizada conforme vou realizando outros cursos o/._ :smile:
 
@@ -68,7 +68,7 @@ _ps: A tabela acima será sempre atualizada conforme vou realizando outros curso
 
 #### Considerações finais
 
-Só tenho que agradecer e que bom que o Will tirou um tempo para construir cursos tão ricos! As vezes as pessoas me perguntam: Edu, temos tantas documentações nas tecnologias, porque você faz tantos cursos? Bem, é muito simples, logicamente que um curso nunca vai excluir uma documentação, no entanto apreender com pessoas e em grupos é duas vezes mais eficaz, sem mencionar que você está consumindo algo mais condensado e linear. Claro que não existem atalhos para maturidade na evolução do programador, mas considero a prática como rumo certo! 
+Só tenho que agradecer e que bom que o Will reservou um tempo para construir cursos tão ricos! As vezes as pessoas me perguntam: Edu, temos tantas documentações nas tecnologias, porque você faz tantos cursos? Bem, é muito simples, logicamente que um curso nunca vai excluir uma documentação, no entanto apreender com pessoas e em grupos é duas vezes mais eficaz, sem mencionar que você está consumindo algo mais condensado e linear. Claro que não existem atalhos para maturidade na evolução do programador, mas considero a prática como rumo certo! 
 
 <br/>
 
