@@ -55,12 +55,12 @@ _ps: aqui constam todos os projetos que foram realizados com Willian Justen._ :r
 
 #### Tabela dos cursos :clipboard:
 
-|                                                                                                               |           curso           | descrição                                                                               | repositório | deploy |
-| :-----------------------------------------------------------------------------------------------------------: | :-----------------------: | :-------------------------------------------------------------------------------------- | :---------: | :----: |
-|                                                                                                               |   Construa uma LandPage   | Mini projeto dentro do curso react avançado                                             |      -      |   -    |
-| <img  src="https://willianjusten.com.br/_next/image?url=%2Fassets%2Fimg%2Fcursos%2Fts-course.png&w=256&q=75"> |         Typscript         | Aprenda o que é TypeScript, como funciona, por que usar e muito mais!                   |      -      |   -    |
-|  <img  src="https://willianjusten.com.br/_next/image?url=%2Fassets%2Fimg%2Fcursos%2Fnetlify.png&w=256&q=75">  |          Netlify          | Aprenda a botar seus projetos no ar de forma fácil e gratuita!                          |      -      |   -    |
-|                                                                                                               | Git e Github na Vida Real | Aprenda Workflows usados em empresa e domine o git para nunca mais ter problema nenhum! |      -      |   -    |
+|                                                                                                                              |           curso           | descrição                                                                               | repositório | deploy |
+| :--------------------------------------------------------------------------------------------------------------------------: | :-----------------------: | :-------------------------------------------------------------------------------------- | :---------: | :----: |
+|                                                                                                                              |   Construa uma LandPage   | Mini projeto dentro do curso react avançado                                             |      -      |   -    |
+| <img height="144px"  src="https://willianjusten.com.br/_next/image?url=%2Fassets%2Fimg%2Fcursos%2Fts-course.png&w=256&q=75"> |         Typscript         | Aprenda o que é TypeScript, como funciona, por que usar e muito mais!                   |      -      |   -    |
+|         <img  src="https://willianjusten.com.br/_next/image?url=%2Fassets%2Fimg%2Fcursos%2Fnetlify.png&w=256&q=75">          |          Netlify          | Aprenda a botar seus projetos no ar de forma fácil e gratuita!                          |      -      |   -    |
+|                                                                                                                              | Git e Github na Vida Real | Aprenda Workflows usados em empresa e domine o git para nunca mais ter problema nenhum! |      -      |   -    |
 
 _ps: A tabela acima será sempre atualizada conforme vou realizando outros cursos o/._ :smile:
 
