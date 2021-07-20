@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" alt="Imagem trybe" src="https://stars.github.com/stars-social-card-images/willianjusten.png" width="400px" />
+  <img align="center" alt="Imagem Willian Justen" src="https://stars.github.com/stars-social-card-images/willianjusten.png" width="400px" />
 </p>
 
 <h3 align="center">
